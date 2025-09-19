@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Hur många X tal mellan 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Största talet", "05 Största talet\05 Största talet.csproj", "{D3BF9618-8ABC-4DAF-8DB8-F707B1A21986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Andragradsekvation", "06 Andragradsekvation\06 Andragradsekvation.csproj", "{9F0712C7-5415-4E0F-9622-5A67A41AA528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Summan av N tal", "07 Summan av N tal\07 Summan av N tal.csproj", "{B6124A12-0707-4494-9BA4-8F868020113F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 Tal från 1 till N", "08 Tal från 1 till N\08 Tal från 1 till N.csproj", "{DB6B35CB-42B1-4629-A51B-D3BF8BAC4D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 Fibonacci", "09 Fibonacci\09 Fibonacci.csproj", "{1F492F78-2175-4984-8D91-8B76F247A1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Räkna med bråk", "10 Räkna med bråk\10 Räkna med bråk.csproj", "{94B7561B-2968-4C47-806B-08A8D8095714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +49,26 @@ Global
 		{D3BF9618-8ABC-4DAF-8DB8-F707B1A21986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3BF9618-8ABC-4DAF-8DB8-F707B1A21986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3BF9618-8ABC-4DAF-8DB8-F707B1A21986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0712C7-5415-4E0F-9622-5A67A41AA528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0712C7-5415-4E0F-9622-5A67A41AA528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0712C7-5415-4E0F-9622-5A67A41AA528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0712C7-5415-4E0F-9622-5A67A41AA528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6124A12-0707-4494-9BA4-8F868020113F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6124A12-0707-4494-9BA4-8F868020113F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6124A12-0707-4494-9BA4-8F868020113F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6124A12-0707-4494-9BA4-8F868020113F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6B35CB-42B1-4629-A51B-D3BF8BAC4D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B35CB-42B1-4629-A51B-D3BF8BAC4D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B35CB-42B1-4629-A51B-D3BF8BAC4D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B35CB-42B1-4629-A51B-D3BF8BAC4D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F492F78-2175-4984-8D91-8B76F247A1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F492F78-2175-4984-8D91-8B76F247A1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F492F78-2175-4984-8D91-8B76F247A1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F492F78-2175-4984-8D91-8B76F247A1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B7561B-2968-4C47-806B-08A8D8095714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B7561B-2968-4C47-806B-08A8D8095714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B7561B-2968-4C47-806B-08A8D8095714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B7561B-2968-4C47-806B-08A8D8095714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
